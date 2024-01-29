@@ -797,5 +797,5 @@ Many thanks to these AI whisperers:
 </a>
 
 # License
-
+здесь могла бы быть ваша реклама
 CC-0
